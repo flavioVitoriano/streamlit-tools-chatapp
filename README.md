@@ -2,7 +2,7 @@
 
 ## About
 
-A simple llm powered chat using streamlit and langchain
+A simple llm powered chat using streamlit and langchain.
 
 ## Usage
 
@@ -20,6 +20,9 @@ Just type in your question and hit enter
 Type in the beggining of your message with `@tools`. Example:
 
 `@tools search for "how to make a pizza"`
+
+## Note
+The prompts are in PT-BR, but you can change them by editing the prompts.py file. Just make sure the prompts keep the format variables.
 
 ## Available tools
 
